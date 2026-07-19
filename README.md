@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arhaanali12
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning html/c++
-- 📫 ig :- btwitsarhaan__
+- 🌱 I’m currently learning python
+- 📫 ig :- arhaanali7.7
 - 😄 Pronouns: he/him
   
 
